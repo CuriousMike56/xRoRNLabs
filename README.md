@@ -1,5 +1,5 @@
 # xRoRNLabs
-##Object file for the former xRoR N-Labs server, for archive and single player purposes.
+##Custom objects file from the former xRoR N-Labs server, for archive and single player purposes.
 ###Requires: https://dl.dropboxusercontent.com/u/42990436/Screens/Previews/N-Labs%20Update/CM%200.4.zip
 ###(Use https://web.archive.org/web/20150219013531/https://dl.dropboxusercontent.com/u/42990436/Screens/Previews/N-Labs%20Update/CM%200.4.zip 
 ###if above link stops working)
